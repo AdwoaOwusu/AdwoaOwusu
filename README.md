@@ -50,5 +50,10 @@ Here are some ideas to get you started:
         <img src="Marcus thumbnail.png" width="300" height="300">
       </a>
     </td>
+    <td>
+      <a href="https://hackholyoke2024.vercel.app">
+        <img src="HackHolyoke thumbnail.png" width="300" height="300">
+      </a>
+    </td>
   </tr>
 </table>
