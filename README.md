@@ -42,12 +42,12 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <a href="https://drive.google.com/file/d/1aHKRD6TfQXL3ZQ8bNBokPmG6H_H9JqMV/view?usp=sharing">
-        <img src="DormDash thumbnail.png" width="300" height="300">
+        <img src="MHC DormDash thumbnail.png" width="300" height="300">
       </a>
     </td>
     <td>
       <a href="https://drive.google.com/file/d/1DfSKAtNgckCN4NyiexOQq04ni1E0vGGH/view?usp=sharing">
-        <img src="Marcus thumbnail.png" width="300" height="300">
+        <img src="Delivery robot thumbnail.png" width="300" height="300">
       </a>
     </td>
     <td>
