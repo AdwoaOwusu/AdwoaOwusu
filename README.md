@@ -34,3 +34,21 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+
+## Project Demo
+
+<table>
+  <tr>
+    <td>
+      <a href="https://drive.google.com/file/d/1aHKRD6TfQXL3ZQ8bNBokPmG6H_H9JqMV/view?usp=sharing">
+        <img src="https://github.com/AdwoaOwusu/AdwoaOwusu/blob/main/DormDash%20thumbnail.png" width="400">
+      </a>
+    </td>
+    <td>
+      <a href="https://drive.google.com/file/d/1DfSKAtNgckCN4NyiexOQq04ni1E0vGGH/view?usp=sharing">
+        <img src="https://github.com/AdwoaOwusu/AdwoaOwusu/blob/main/Marcus%20thumbnail.png" width="400">
+      </a>
+    </td>
+  </tr>
+</table>
