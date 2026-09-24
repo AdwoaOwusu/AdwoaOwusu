@@ -42,12 +42,12 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <a href="https://drive.google.com/file/d/1aHKRD6TfQXL3ZQ8bNBokPmG6H_H9JqMV/view?usp=sharing">
-        <img src="https://github.com/AdwoaOwusu/AdwoaOwusu/blob/main/DormDash%20thumbnail.png" width="400">
+        <img src="DormDash thumbnail.png" width="400">
       </a>
     </td>
     <td>
       <a href="https://drive.google.com/file/d/1DfSKAtNgckCN4NyiexOQq04ni1E0vGGH/view?usp=sharing">
-        <img src="https://github.com/AdwoaOwusu/AdwoaOwusu/blob/main/Marcus%20thumbnail.png" width="400">
+        <img src="Marcus thumbnail.png" width="400">
       </a>
     </td>
   </tr>
